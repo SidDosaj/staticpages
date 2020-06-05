@@ -1,0 +1,107 @@
+history
+    1  sid1
+    2  6767
+    3  1211
+    4  1212
+    5  login
+    6  libs
+    7  s
+    8  login
+    9  libs
+   10  s
+   11  git
+   12   git-v
+   13  [--version]
+   14  git --version
+   15  updategit --version
+   16  GIT CLONE https://github.com/SidDosaj/TEST.git
+   17  git clone https://github.com/SidDosaj/TEST.git
+   18  ls
+   19  cd "C:\Users\SIDDHARTH\Desktop\HTML
+   20  ls
+   21  cd html
+   22  ls
+   23  git init
+   24  git add README.md
+   25  git commit -m "first commit"
+   26  git add.
+   27  git status
+   28  git add .
+   29  git status
+   30  git commit -m "first commit"
+   31  git status
+   32  git remote
+   33  git config
+   34  git config username
+   35  git config -g user.name
+   36  git config user.name
+   37  git remote
+   38  git remote add origin
+   39  git remote add origin https://github.com/SidDosaj/myhtml.git
+   40  git remote
+   41  git remote add sid
+   42  git remote add sid https://github.com/SidDosaj/myhtml.git
+   43  git remote 
+   44  git push 
+   45  git checkout -b branch1
+   46  git checkout master
+   47  git checkout branch1
+   48  git remote 
+   49  git status
+   50  git push origin branch1
+   51  git checkout master
+   52  git status
+   53  ls
+   54  git pull
+   55  git pull origin branch1
+   56  git add .
+   57  git status
+   58  git checkout branch1
+   59  git status
+   60  get checkout master
+   61  git checkout master
+   62  git status
+   63  git merge branch1
+   64  git push origin master
+   65  ls
+   66  cd html
+   67  cp . ../staticpages
+   68  cp . -r ../staticpages
+   69  cd..
+   70  cd ..
+   71  ls
+   72  cdstaticpages
+   73  cd staticpages
+   74  ls
+   75  ll
+   76  ls -al
+   77  rm -r .git
+   78  rm -rf .git
+   79  ls -al
+   80  git init
+   81  ls -al
+   82  git add .
+   83  git add.
+   84  git commit
+   85  git commit -m "first commit"
+   86  git remote add origin
+   87  git remote add origin
+   88  git remote add origin 
+   89  git remote add origin https://github.com/SidDosaj/staticpages.git
+   90  git push -u origin master
+   91  ls
+   92  code .
+   93  brackets
+   94  brackets .
+   95  git status
+   96  git add.
+   97  git add .
+   98  git commit -m ":tada:updated file"
+   99  git push origin master
+  100  history
+  101  echo history >>
+  102  echo history >> history.txt
+  103  ls
+  104  cat history.txt
+  105  history >>
+  106   history >> history.txt
